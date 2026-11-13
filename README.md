@@ -1,4 +1,4 @@
-# New York Airbnb Market Analysis
+# Airbnb Market Analysis
 
 ## 🎯 Project Objectives
 
